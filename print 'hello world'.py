@@ -1,5 +1,4 @@
-print ('hello world')
-print ('hello world2')
-print ('hello world3')
-print ('hello world4')
-print ('cacat')
+name = "Danciu"
+surname = "Andrei"
+
+print("Hello, my name is {0:10} and {1}. Nice to meet you".format(name, surname))
